@@ -21,5 +21,6 @@ This project is a simple sentiment analysis model built using IMDb-style movie r
 - Accuracy achieved: **~70%** on the test set
 
 ## Files
-- `sentiment_classifier.py`: Contains the full code for preprocessing, training, and evaluation
+- `project.py`: Contains the full code for preprocessing, training, and evaluation
 - `README.md`: This explanation file
+You can view the main Python code here: [project.py](project.py)
